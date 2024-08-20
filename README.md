@@ -1,1 +1,1 @@
-This respo is testing JS DOM.
+This repostitory is testing JS DOM.
